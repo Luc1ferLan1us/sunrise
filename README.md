@@ -33,11 +33,12 @@
    cd sunrise```
 2. Установите зависимости для Python:
 ```
-    pip install pymetasploit3
+ pip install pymetasploit3
 ```
-    Сделайте скрипты исполняемыми:
+Сделайте скрипты исполняемыми:
+
 ```
-    chmod +x sunrise.sh sunrise_msf.py
+ chmod +x sunrise.sh sunrise_msf.py
 ```
 3. Использование
 
